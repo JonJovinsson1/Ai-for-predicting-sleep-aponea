@@ -70,7 +70,7 @@ Novel Data Accuracy  60–70%   Performance on previously unseen external data
 
 ### Setup
 
-1. Clone the repository:
+## 1. Clone the repository:
 
 git clone https://github.com/yourusername/OSA-Detection-3D.git
 cd OSA-Detection-3D
@@ -85,17 +85,17 @@ imageio
 vtk
 absl-py
 
-Usage
+## Usage
 1. Feature Extraction (Deep-MVLM)
 Generate 3D landmarks from a scan:
 python predict.py --c configs/DTU3D-RGB.json --n assets/patient_scan.obj
 
-3. Classification
+2. Classification
 Run the trained classifier on extracted landmarks:
 python classifier_inference.py --input assets/patient_landmarks.txt
 
 
-Acknowledgments & Citations
+### Acknowledgments & Citations
 This project relies on Deep-MVLM for automated 3D landmark placement.
 
 If you use this code, please cite the original authors:
@@ -114,17 +114,10 @@ Copy code
   year={2018},
   organization={Springer}
 }
-Project Team (Group 16)
-Tristan Edward Gardiner
 
-Mahathir Abdul Basher
 
-Jon Sveinbjornsson
-
-Steven Cobain
-
-Supervision
+### Supervision
 Special thanks to Dr. Syed Mohammed Shamsul Islam and the ECU School of Science for their support and supervision.
 
-Disclaimer
+### Disclaimer
 This project is for research and educational purposes only. It is not a certified medical diagnostic tool and must not be used as a substitute for professional medical advice or Polysomnography (PSG).
