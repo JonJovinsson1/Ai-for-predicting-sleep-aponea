@@ -7,7 +7,7 @@ A deep learning approach to detecting Obstructive Sleep Apnoea using 3D facial m
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
-#Completed report: https://github.com/JonJovinsson1/Ai-for-predicting-sleep-aponea/blob/main/CSG3101-GROUP16-SleepAponeaDetection.pdf
+# Completed report: https://github.com/JonJovinsson1/Ai-for-predicting-sleep-aponea/blob/main/CSG3101-GROUP16-SleepAponeaDetection.pdf
 ---
 ## Overview
 
