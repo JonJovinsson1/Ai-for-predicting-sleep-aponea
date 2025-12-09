@@ -7,7 +7,8 @@ A deep learning approach to detecting Obstructive Sleep Apnoea using 3D facial m
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
-
+#Completed report: https://github.com/JonJovinsson1/Ai-for-predicting-sleep-aponea/blob/main/CSG3101-GROUP16-SleepAponeaDetection.pdf
+---
 ## Overview
 
 This project explores the application of deep learning algorithms to detect **Obstructive Sleep Apnoea (OSA)** using 3D craniofacial scans. Unlike traditional Polysomnography (PSG), which is expensive, time-consuming, and invasive, this solution proposes a non-invasive, rapid screening approach based on the correlation between craniofacial morphology and OSA.
