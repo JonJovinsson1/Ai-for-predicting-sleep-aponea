@@ -103,18 +103,7 @@ If you use this code, please cite the original authors:
 Multi-view Consensus CNN for 3D Facial Landmark Placement
 Paulsen, Rasmus R.; Juhl, Kristine Aavild; Haspang, Thilde Marie; Hansen, Thomas; Ganz, Melanie; Einarsson, Gudmundur.
 Asian Conference on Computer Vision (ACCV), 2018.
-
-BibTeX
-bibtex
-Copy code
-@inproceedings{paulsen2018multi,
-  title={Multi-view Consensus CNN for 3D Facial Landmark Placement},
-  author={Paulsen, Rasmus R and Juhl, Kristine Aavild and Haspang, Thilde Marie and Hansen, Thomas and Ganz, Melanie and Einarsson, Gudmundur},
-  booktitle={Asian Conference on Computer Vision},
-  pages={706--719},
-  year={2018},
-  organization={Springer}
-}
+https://github.com/RasmusRPaulsen/Deep-MVLM
 
 
 ### Supervision
